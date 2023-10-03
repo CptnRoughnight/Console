@@ -94,6 +94,7 @@ visible = false
 anchors_preset = 10
 anchor_right = 1.0
 offset_top = -400.0
+offset_right = 4768.0
 grow_horizontal = 2
 size_flags_horizontal = 3
 
