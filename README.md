@@ -1,5 +1,7 @@
 # Console
  Console Addon for Godot
+ 
+![Screenshot_20231003_142725](https://github.com/CptnRoughnight/Console/assets/31368513/2c9d7f34-4813-474e-82e3-9d2bfdf4d7ab)
 
 # Installation
 Download this repo, copy the folders in "addon" and the Folder "Console" to you project. Start Godot.
@@ -21,5 +23,11 @@ Section Settings:
 [Log Save Time]    - Time for auto saving the log
 [Paus On Activate] - Pauses the game on activation
 
+![Screenshot_20231003_142553](https://github.com/CptnRoughnight/Console/assets/31368513/07e3d2c7-de48-4781-82e0-7c47d18fbf16)
 
+Add commands of the script to the console by adding in the command name in the array.
+
+
+# Demo Project
+https://github.com/CptnRoughnight/ConsoleDemo
 
